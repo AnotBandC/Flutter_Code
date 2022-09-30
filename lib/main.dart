@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Instogram"),
+          title: Text("Instoogram"),
         ),
         body: Container(
           child: Text(name, style: TextStyle(fontSize: 50),),
